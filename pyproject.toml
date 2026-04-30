@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.12.10,<3.13"
 dependencies = [
     "fitz>=0.0.1.dev2",
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
     "opencv-python>=4.13.0.92",
     "paddleocr>=3.5.0",
     "paddlepaddle>=3.3.1",
